@@ -9,4 +9,4 @@ def hello():
 	return ''
 	'head'
 	htm
-".format(escape('name'))
+.format(escape('name'))
